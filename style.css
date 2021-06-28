@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+  } 
+  #lable{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+  }
+  #image1{
+    border-color:#689F38;
+    border-width: 4px ;
+    border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+    height:400px;
+  }
